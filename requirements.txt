@@ -1,0 +1,51 @@
+akshare==1.15.20
+backtrader==1.9.78.123
+beautifulsoup4==4.12.3
+Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
+bs4==0.0.2
+certifi==2024.8.30
+charset-normalizer==3.4.0
+colorama==0.4.6
+cramjam @ file:///C:/b/abs_ee5p_hdqv7/croot/cramjam_1702650853241/work
+decorator==5.1.1
+et_xmlfile==2.0.0
+fastparquet==2024.5.0
+fsspec @ file:///C:/b/abs_02vh2bpxfo/croot/fsspec_1724855601370/work
+greenlet==3.1.1
+html5lib==1.1
+idna==3.10
+iniconfig==2.0.0
+jsonpath==0.82.2
+lxml==5.3.0
+mini-racer==0.12.4
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+numexpr @ file:///C:/b/abs_05o8p7bfml/croot/numexpr_1730215959182/work
+numpy==2.1.3
+openpyxl==3.1.5
+packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
+pandas==2.2.3
+pluggy==1.5.0
+psycopg2==2.9.10
+pyarrow==18.0.0
+pytest==8.3.4
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytils==0.4.1
+pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
+requests==2.32.3
+simplejson==3.19.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.6
+SQLAlchemy==2.0.36
+tabulate==0.9.0
+tools==0.1.9
+tqdm==4.67.0
+tushare==1.4.13
+typing_extensions==4.12.2
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==2.2.3
+utils==1.0.2
+webencodings==0.5.1
+websocket-client==1.8.0
+xlrd==2.0.1
