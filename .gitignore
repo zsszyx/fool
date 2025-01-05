@@ -1,0 +1,6 @@
+sqlconfig.ini
+**/__pycache__/
+**/.pytest_cache/
+.git/
+.vscode/
+.pytest_cache/
