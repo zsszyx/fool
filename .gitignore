@@ -1,2 +1,5 @@
 sqlconfig.ini
 **/__pycache__/
+.git/
+.gitignore
+.vscode/
